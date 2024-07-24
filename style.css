@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.title {
+    font-family: "Bree Serif", serif;
+    font-weight: 900;
+    font-size: 80px;
+    color: black;
+}
+
+.press {
+    font-family: "Luxurious Roman", serif;
+    font-weight: 400;
+    font-size: 35px;
+    color: black;
+}
+
+
+.btn {
+    padding-inline:70px;
+}
+
+.btn-primary {
+    --bs-btn-hover-bg: green;
+    --bs-btn-bg: blue;
+}
